@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Clarence&#x27;s Portfolio",
+    "description": "",
+    "home_page_url": "https://console-log-dead.github.io/hello-world",
+    "feed_url": "https://console-log-dead.github.io/hello-world/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Clarice"
+    },
+    "items": [
+    ]
+}

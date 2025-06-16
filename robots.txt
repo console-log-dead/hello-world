@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://console-log-dead.github.io/hello-world/sitemap.xml

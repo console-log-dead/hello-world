@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://console-log-dead.github.io/hello-world/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://console-log-dead.github.io/hello-world/</loc>
+</url>
+<url>
+<loc>https://console-log-dead.github.io/hello-world/about-me.html</loc>
+<lastmod>2025-06-16T09:54:55+08:00</lastmod>
+<image:image>
+<image:loc>https://console-log-dead.github.io/hello-world/media/posts/4/IMG_6533.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://console-log-dead.github.io/hello-world/academic-portfolio.html</loc>
+<lastmod>2025-06-16T10:55:23+08:00</lastmod>
+</url>
+<url>
+<loc>https://console-log-dead.github.io/hello-world/photography-portfolio.html</loc>
+<lastmod>2025-06-16T10:55:28+08:00</lastmod>
+</url>
+<url>
+<loc>https://console-log-dead.github.io/hello-world/portfolio.html</loc>
+<lastmod>2025-06-16T10:54:54+08:00</lastmod>
+<image:image>
+<image:loc>https://console-log-dead.github.io/hello-world/media/posts/3/Screenshot-2025-06-16-101523-2.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://console-log-dead.github.io/hello-world/media/posts/3/IMG_6556.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
